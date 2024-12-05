@@ -1,4 +1,3 @@
-import { useState } from "react/cjs/react.production.min";
 import "./styles.css";
 
 export default function App() {
